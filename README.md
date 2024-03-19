@@ -3,5 +3,5 @@ Settings OpenServer:
   PHP: PHP_7.2,
   MySQL/MariaDB: MySQL-8.0-Win10
 
-В корне есть файл БД
+В корне есть файл с sql-кодом testTaskVK.sql
   
