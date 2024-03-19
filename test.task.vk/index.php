@@ -13,8 +13,6 @@ $params =  explode('/', $q);
 $type = $params[0];
 $id = $params[1];
 
-$method = 'POST';
-
 switch ($method) {
     case 'GET': {
         switch ($type) {
